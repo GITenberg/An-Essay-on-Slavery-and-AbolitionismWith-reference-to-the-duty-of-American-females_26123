@@ -1,0 +1,34 @@
+_repo: An-Essay-on-Slavery-and-AbolitionismWith-reference-to-the-duty-of-American-females_26123
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Beecher, Catharine Esther
+    aliases:
+    - Beecher, C. E. (Catherine Esther)
+    - Beecher, Catherine E. (Catherine Esther)
+    birthdate: 1800
+    deathdate: 1878
+    gutenberg_agent_id: '2109'
+    url: http://www.gutenberg.org/2009/agents/2109
+    wikipedia: http://en.wikipedia.org/wiki/Catharine_Beecher
+description: ''
+gutenberg_issued: '2008-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26123'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abolitionists -- United States'
+- !lcsh 'Slavery -- United States'
+- !lcc 'E300'
+- !lcsh 'Antislavery movements -- United States'
+title: 'An Essay on Slavery and Abolitionism
+
+  With reference to the duty of American females'
+url: http://www.gutenberg.org/ebooks/26123
